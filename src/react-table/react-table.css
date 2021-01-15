@@ -1,0 +1,22 @@
+.react-table td, .react-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .react-table tr:nth-child(even){background-color: #f2f2f2;}
+  
+  .react-table tr:hover {background-color: #ddd;}
+  
+  .react-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #79756f;
+    color: white;
+    text-align: center;
+  }
+  
+  .react-table{
+    border-collapse: collapse;
+    width: 100%;
+  }
